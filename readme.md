@@ -5,4 +5,6 @@ Special thanks to @violetyuri and @gliz
 violet for the build and glixz for the hacks. Love yall!
 |------------------------------------------|
 |im not responsable for your dumb decisions|
-|------------------------------------------|
+
+go into "My filters" and add this script into it. *##+js(Astro.js)
+next go to the bottom of the screen, once your their, you will see, I am an advanced user, click it. then click the tiny cog, the go to "userResourcesLocation" and change unset to 
